@@ -1,3 +1,4 @@
+<!--Julia Amaral 3C-->
 const avanca = document.querySelectorAll('.btn-proximo');
 
 avanca.forEach(button => {
